@@ -1,0 +1,10 @@
+body{
+	background: white url("/static/images/tratata.jpg") no-repeat right bottom;
+}
+
+li a {
+	color: red;
+	text-decoration: none;
+	font-style: italic;
+	font-size: 30px;
+}
